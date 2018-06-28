@@ -2,11 +2,11 @@
 
 The algorithm solutions are located in
 
-[/algorithms]()
+[/algorithms](https://github.com/thinkful-ei20/gianluca-DSA-Searching/tree/master/algorithms)
 
 The react application is located in
 
-[/search-app-react]()
+[/search-app-react](https://github.com/thinkful-ei20/gianluca-DSA-Searching/tree/master/search-app-react)
 
 ## Directions
 
