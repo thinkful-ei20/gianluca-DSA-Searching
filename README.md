@@ -1,11 +1,21 @@
 # DSA-Search-Traversal
 
-The algorithm answers and questions are located in /algorithms
-The react application is located in /src
+The algorithm solutions are located in
 
-__Must have (yarn)[https://yarnpkg.com/lang/en/] installed to run this repo__
+[/algorithms]()
+
+The react application is located in
+
+[/search-app-react]()
+
+## Directions
+
+Must have [yarn](https://yarnpkg.com/lang/en/) installed to run this repo
 
 To run the application:
 
+`cd search-app-react`
+
 `yarn install` or `yarn`
+
 `yarn start`
