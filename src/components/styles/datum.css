@@ -1,0 +1,9 @@
+.data-point {
+	background-color: whitesmoke;
+	border: 1px solid lightblue;
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+	padding: 0.5em;
+	margin: 0.2em;
+}
